@@ -53,4 +53,6 @@ PRODUCT_COPY_FILES += \
 	device/hardkernel/common/wifi/8192cu:vendor/etc/modprobe.d/8192cu \
 	device/hardkernel/common/wifi/8812au:vendor/etc/modprobe.d/8812au \
 	device/hardkernel/common/wifi/8821cu:vendor/etc/modprobe.d/8821cu \
-	device/hardkernel/common/wifi/rt2800usb:vendor/etc/modprobe.d/rt2800usb
+	device/hardkernel/common/wifi/rt2800usb:vendor/etc/modprobe.d/rt2800usb \
+	device/hardkernel/common/wifi/mt7610:vendor/etc/modprobe.d/mt7610 \
+	device/hardkernel/common/wifi/RT2870STA.dat:system/etc/Wireless/RT2870STA/RT2870STA.dat
